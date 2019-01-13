@@ -3,7 +3,7 @@ Contents of README:
   1. A brief word description of the problem
   2. A brief description of my code
   
-* I have a full-fledged report documenting my findings for the user.
+* I do have a full-fledged report documenting my findings for the user.
 
 1.
     My fraternity, Phi Gamma Delta, has its international headquarters (IHQ) in the same city that I attend university. While interning at IHQ I noticed an assignment problem that could be solved using mathmematical modeling and integer programming.
